@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(82, 80, 80);
+}
+.link {
+    text-align: center;
+}
+a {
+    color: white;
+    font-size: 100px;
+    text-decoration: none;
+}
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    text-align: center;
+}
+.imagem {
+    text-align: center;
+}
